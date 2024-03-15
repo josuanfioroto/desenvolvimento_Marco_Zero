@@ -1,0 +1,63 @@
+#foto{
+   background-image:url(imagens/fun-travel-outdoors-tourism-city-recife.jpg) ;
+   background-size: cover; 
+   background-position: center;  
+   background-repeat: no-repeat; 
+  height: 700px;
+}
+.container {
+     display: flex;
+   }
+#titulo{
+     text-align: center;
+}
+
+#historia{
+     background-color: lightseagreen;
+     margin-right: 2rem;
+     padding: 1rem 1.5rem;
+     width: 1800px;
+     border-radius: 8px;
+     margin-bottom: 100px;
+}
+#praca{
+     background-color: lightseagreen;
+     margin-right: 2rem;
+     padding: 1rem 1.5rem;
+     width: 400px;
+     border-radius: 8px;
+
+}
+
+#arte{
+     background-color: lightseagreen;
+     margin-right: 2rem;
+     padding: 1rem 1.5rem;
+     width: 400px;
+     border-radius: 8px;
+
+}
+
+#cais{
+     background-color: lightseagreen;
+     margin-right: 2rem;
+     padding: 1rem 1.5rem;
+     width: 400px;
+     border-radius: 8px;
+
+}
+
+#rio{
+     background-color: lightseagreen;
+     margin-right: 2rem;
+     padding: 1rem 1.5rem;
+     width: 400px;
+     border-radius: 8px;
+
+}
+
+
+body{
+   background: linear-gradient(rgb(247, 247, 120),blueviolet);
+};
+   display: flex;
